@@ -22,8 +22,8 @@ public class Demo {
         }
         card.add("大王");
         card.add("小王");
-//        Collections.reverse(card);
-//        Collections.shuffle(card);
+        Collections.reverse(card);
+        Collections.shuffle(card);
 //        System.out.println(card);//本行及上两行用来检查上面的牌是否为我们想要的
 //        截至到此扑克的创建结束
 //        创建底牌（设置为三张）以及三个玩家（平均每人17张牌）
