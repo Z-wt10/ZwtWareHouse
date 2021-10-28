@@ -1,5 +1,9 @@
-package com.zwt.Day30;
-
+/*
+版本：Java11
+时间：21/10/27
+实现：模拟游戏斗地主的洗牌，发牌，看牌
+方法不唯一
+*/
 import java.util.*;
 
 public class Demo {
